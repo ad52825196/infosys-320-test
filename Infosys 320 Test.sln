@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys 320 Test.CSharp.Plugins", "Infosys 320 Test.CSharp.Plugins.csproj", "{12AB1730-FF50-EFF2-A67A-6A1EB0835C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys 320 Test.CSharp", "Infosys 320 Test.CSharp.csproj", "{809E54E4-E7F5-E006-467A-49F8C8FC4AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys 320 Test.CSharp.Editor", "Infosys 320 Test.CSharp.Editor.csproj", "{2444F550-5039-70D9-8AC3-460D58ACA49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AB1730-FF50-EFF2-A67A-6A1EB0835C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AB1730-FF50-EFF2-A67A-6A1EB0835C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AB1730-FF50-EFF2-A67A-6A1EB0835C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AB1730-FF50-EFF2-A67A-6A1EB0835C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809E54E4-E7F5-E006-467A-49F8C8FC4AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809E54E4-E7F5-E006-467A-49F8C8FC4AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809E54E4-E7F5-E006-467A-49F8C8FC4AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809E54E4-E7F5-E006-467A-49F8C8FC4AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2444F550-5039-70D9-8AC3-460D58ACA49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2444F550-5039-70D9-8AC3-460D58ACA49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2444F550-5039-70D9-8AC3-460D58ACA49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2444F550-5039-70D9-8AC3-460D58ACA49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
