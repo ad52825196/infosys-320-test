@@ -139,7 +139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae516c77d32f00d42ad75c2417511e20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Website: http://infosys320lab.azurewebsites.net/tables/WaterPollutionReading
+  Website: http://infosys320lab.azurewebsites.net/tables/TreeSurvey
   sphere: {fileID: 1000010986764038, guid: 184aa714e17763447bd6c3d14858036a, type: 2}
 --- !u!4 &80152774
 Transform:
